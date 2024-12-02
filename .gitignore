@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos Virtuales
+.venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+
+# Bases de datos
+*.sqlite3
+
+# Archivos de configuración sensibles
+.env
+
+# Archivos de compilación
+*.log
+*.pot
+*.pid
+*.seed
+*.cover
